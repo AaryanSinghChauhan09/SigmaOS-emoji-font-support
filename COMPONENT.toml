@@ -3,7 +3,7 @@ name = "SigmaOS-emoji-font-support"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emoji-font-support component"
+description = "Emoji Font Support"
 upstream = []
 
 [contract]
